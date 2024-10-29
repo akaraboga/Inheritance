@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\KalıtımOrnek\KalıtımOrnek\bin\Debug\KalıtımOrnek.exe.config
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\KalıtımOrnek\KalıtımOrnek\bin\Debug\KalıtımOrnek.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\KalıtımOrnek\KalıtımOrnek\bin\Debug\KalıtımOrnek.pdb
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\KalıtımOrnek\KalıtımOrnek\obj\Debug\KalıtımOrnek.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\KalıtımOrnek\KalıtımOrnek\obj\Debug\KalıtımOrnek.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\KalıtımOrnek\KalıtımOrnek\obj\Debug\KalıtımOrnek.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\KalıtımOrnek\KalıtımOrnek\obj\Debug\KalıtımOrnek.pdb
